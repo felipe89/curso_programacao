@@ -1,6 +1,6 @@
 package EntidadeXadres;
 
-public class ChessPiece extends Piece {
+public abstract class ChessPiece extends Piece {
 
     private Collor collor;
 
